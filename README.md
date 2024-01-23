@@ -58,7 +58,7 @@ python clipseg_infer.py --content_path CONTENT_PATH --style_path STYLE_PATH --pr
 Example:
 
 ```bash
-python clipseg_infer.py --content_path data/content/c4.jpg --style_path data/style/vg_starry_night.jpg --prompts "chair"
+python clipseg_infer.py --content_path data/content/c3.jpg --style_path data/style/vg_starry_night.jpg --prompts "chair"
 ```
 
 ### Semantic Style Transfer Example
