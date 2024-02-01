@@ -2,7 +2,7 @@
 
 ### *CS541: Deep Learning - [Worcester Polytechnic Institute](https://www.wpi.edu/), Fall 2023*
 This repository is for "Zero-shot Semantic Neural Style Transfer for Images", course project for Deep Learning (CS541/Fall 2023).
-The main objective of the project is to achieve Zer-Shot Style Transfer inspired by the paper AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer [Link](https://arxiv.org/abs/2108.03647)
+The main objective of the project is to achieve Zero-Shot Style Transfer inspired by the paper AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer [Link](https://arxiv.org/abs/2108.03647)
 
 The project explores the adaptability of AdaAttN in preserving semantic content while applying diverse styles to images. Traditional image segmentation methods are limited by their fixed set of object classes, requiring extensive retraining for new classes. Therefore, as an extension, a text-based image segmentation method is used that can generate segmentation based on arbitrary prompts. The text-based segmentation method is based on CLIPSeg [Link](https://arxiv.org/abs/2112.10003)
 
